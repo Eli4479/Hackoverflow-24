@@ -40,10 +40,14 @@
 - *Description:* Apply your knowledge by working on a hands-on, code-along project. This project provides a practical application of HTML and CSS concepts learned throughout the week.
 
   - [Code Along Project](https://www.youtube.com/watch?v=uKgn-To1C4Q&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=7)
- 
-### Extra
 
-  - [The Web Developer Roadmap](https://youtu.be/Gc4Xh8u19NU?si=WGMneyIgKOEAwGXz)
+# Extra
+
+-  [The Web Developer Roadmap](https://youtu.be/Gc4Xh8u19NU?si=WGMneyIgKOEAwGXz)
+-  [GitHub Pro Pack for Education](https://education.github.com/pack)
+-  [Tutorial: How to Get GitHub Pro Pack](https://youtu.be/wC1ouLxX2tA?si=2sCHcPmKJi8Ix-59)
+-  [GitHub Copilot Tutorial](https://youtu.be/hPVatUSvZq0?si=a7VcWKvNLictvjYg)
+
 
 ##
 # Contributing to the Resources
@@ -82,7 +86,7 @@ If you'd like to contribute or add a new topic/resource to this collection, we w
    Push your changes to your forked repository and the new branch:
 
    ```bash
-   git push origin new-topic-name
+   git push origin new-topic-name  
    ```
 
 7. **Create a Pull Request:**
