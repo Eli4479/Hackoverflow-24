@@ -41,13 +41,47 @@
 
   - [Code Along Project](https://www.youtube.com/watch?v=uKgn-To1C4Q&list=PLillGF-RfqbZTASqIqdvm1R5mLrQq79CU&index=7)
 
+## Week 2: Git and CSS Frameworks
+
+### Day 1: Git and GitHub
+
+- *Description:* Introduce yourself to the world of version control with Git and collaborative development using GitHub. Understand the significance of version control in tracking changes, collaborating seamlessly with teammates, and maintaining a well-organized project history.
+
+- [Git Basics](https://medium.com/free-code-camp/learn-the-basics-of-git-in-under-10-minutes-da548267cc91)
+- [GitHub Tutorial](https://www.youtube.com/watch?v=8JJ101D3knE)
+
+### Day 2: CSS Frameworks
+
+- *Description:* Learn how CSS frameworks, such as Bootstrap and Tailwind CSS, provide pre-built styles and components, enabling you to create responsive and consistent designs with less effort.
+
+  - [What is a CSS Framework?](https://medium.com/html-all-the-things/what-is-a-css-framework-f758ef0b1a11)
+
+  ### Day 3: Basic Bootstrap
+
+  - *Description:* Dive into the popular CSS framework, Bootstrap. Learn about its foundational components, responsive grid system, and utility classes.
+
+    - [Bootstrap Documentation](https://getbootstrap.com/docs/5.0/getting-started/introduction/)
+    - [Bootstrap Tutorial Playlist](https://www.youtube.com/watch?v=O_9u1P5YjVc&list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
+
+  ### Day 4-5: Tailwind CSS
+
+  - *Description:* Explore the utility-first approach of Tailwind CSS. Understand how Tailwind's approach differs from traditional CSS frameworks and why it can be a gamechanger.
+
+    - [Tailwind CSS Documentation](https://tailwindcss.com/)
+    - [Tailwind CSS Playlist](https://youtube.com/playlist?list=PL4cUxeGkcC9gpXORlEHjc5bgnIi5HEGhw&si=JYDEoNE32lznHcDu)
+
+  ### Day 6-7: Portfolio
+
+  - *Description:* Create your personal portfolio website using the skills acquired from CSS frameworks. A portfolio serves as a showcase of your projects and skills, allowing potential employers or clients to understand your capabilities.
+
+    - [Portfolio Tutorial](https://youtu.be/sQoiM7i5Nqc?si=_WLQ22JbNTfORPE0)
+
 # Extra
 
 -  [The Web Developer Roadmap](https://youtu.be/Gc4Xh8u19NU?si=WGMneyIgKOEAwGXz)
 -  [GitHub Pro Pack for Education](https://education.github.com/pack)
 -  [Tutorial: How to Get GitHub Pro Pack](https://youtu.be/wC1ouLxX2tA?si=2sCHcPmKJi8Ix-59)
 -  [GitHub Copilot Tutorial](https://youtu.be/hPVatUSvZq0?si=a7VcWKvNLictvjYg)
-
 
 ##
 # Contributing to the Resources
