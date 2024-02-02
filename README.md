@@ -75,7 +75,48 @@
   - *Description:* Create your personal portfolio website using the skills acquired from CSS frameworks. A portfolio serves as a showcase of your projects and skills, allowing potential employers or clients to understand your capabilities.
 
     - [Portfolio Tutorial](https://youtu.be/sQoiM7i5Nqc?si=_WLQ22JbNTfORPE0)
+  ## Week 3: JavaScript Fundamentals and API Integration
 
+  ### Day 1: JavaScript Basics
+
+  - *Description:* Kickstart your JavaScript journey by understanding the basics and why it is so important for making the webpages interactive. 
+
+    - [JavaScript Reference - W3Schools](https://w3schools.com/jsref/jsref_reference.asp)
+    - [JavaScript Basics](https://medium.com/swlh/introduction-to-javascript-basics-cf901c05ca47)
+    - [JavaScript Tutorial](https://www.youtube.com/watch?v=W6NZfCO5SIk)
+
+  ### Day 2: DOM and Event Listeners
+
+  - *Description:* Explore the Document Object Model (DOM) to dynamically manipulate HTML and CSS. Learn about event listeners and handlers to respond to user interactions effectively.
+
+    - [MDN Web Docs - DOM Introduction](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+    - [DOM Manipulation with Vanilla JavaScript](https://www.sitepoint.com/dom-manipulation-vanilla-javascript-no-jquery/)
+    - [DOM Manipulation Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9gfoKa5la9dsdCNpuey2s-V)
+
+  ### Day 3: API Fundamentals
+
+  - *Description:* Explore the world of APIs (Application Programming Interfaces) and understand how they enable communication between different software systems.
+
+    - [What is an API?](https://medium.com/@perrysetgo/what-exactly-is-an-api-69f36968a41f)
+    - [API Introduction](https://www.youtube.com/watch?v=GZvSYJDk-us)
+    - [HTTP Requests in JavaScript](https://www.tutorialspoint.com/http/http_requests.htm)
+    - [JavaScript Fetch API](https://www.javascripttutorial.net/javascript-fetch-api)
+    - [JavaScript Fetch API Tutorial](https://www.youtube.com/watch?v=Oive66jrwBs&ab_channel=TraversyMedia)
+    - [API Glossary - Parameters](https://rapidapi.com/blog/api-glossary/parameters/)
+
+  ### Day 4-5: Mini Projects
+
+  - *Description:* Apply your JavaScript skills by working on mini projects. These projects provide hands-on experience and reinforce the concepts learned throughout the week.
+
+    - [JavaScript Mini Projects](https://www.youtube.com/watch?v=JkeyKeK3V24)
+
+  ### Day 6-7: Weather App and Hosting
+
+  - *Description:* Create a weather application by integrating an external API. Learn how to fetch data from an API and display it dynamically on your web page. Explore hosting options for your projects, including platforms like Vercel.
+
+    - [Weather App Tutorial](https://www.youtube.com/watch?v=n4dtwWgRueI&t=249s&ab_channel=TylerPotts)
+    - [Vercel Documentation](https://vercel.com/docs)
+    - [How to host webapp on vercel](https://www.youtube.com/watch?v=opikz5x_1ak)
 # Extra
 
 -  [The Web Developer Roadmap](https://youtu.be/Gc4Xh8u19NU?si=WGMneyIgKOEAwGXz)
